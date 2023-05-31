@@ -1,6 +1,6 @@
 👋 Hi, I’m Dhruv Bhatia (@dhruvbhatia1)
 
-🌱 I’m currently learning Data Structures and Algorithms, Web Development, and exploring Machine Learning.
+📚 I have a strong understanding of Data Structures and Algorithms, and I'm proficient in Java for Object-Oriented Programming.
 
 👨‍💻 I'm a MERN (MongoDB, Express.js, React.js, Node.js) stack developer with experience in building web applications.
 
@@ -12,7 +12,7 @@
 
 🌐 Check out my projects on [GitHub](https://github.com/dhruvbhatia1)
 
-📚 I have a strong understanding of Data Structures and Algorithms, and I'm proficient in Java for Object-Oriented Programming.
+
 
 Feel free to connect with me and explore my projects!
 
